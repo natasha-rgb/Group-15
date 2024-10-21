@@ -11,7 +11,7 @@ On this screen, users will be able to do a few introductory things:
 2. **View services** : Users will be able to view the different tools and services that they will be offered 
 3. **Search** : There will be a search bar in which users will be able to navigate the app 
 
-This intro screen has been created so users will be able to initially guide through Freelit with ease. They will be able to get where they want to go fairly quickly.
+This intro screen has been created so users will be able to initially guide through Freelit with ease. It offers a clear and intuitive interface that allows users to swiftly access their desired features and services. By simplifying the initial navigation process, this screen ensures that users can effortlessly find their way and engage with the app’s offerings without any frustration.
 
 **Use Case**: 
 Users can quickly log on or sign up so their flashcards/tests will be saved. They will also be able to view previews of all our tools so they can decide if they want to use the app.
