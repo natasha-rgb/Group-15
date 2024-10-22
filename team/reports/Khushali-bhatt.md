@@ -1,3 +1,4 @@
+##Contribution Log for Khushali Bhatt
 **10/21/2024**
 Started working on UI diagrams : added a link to the diagram and added descirptions of the diagram
 https://github.com/Madi3456/Group-15/commit/bedb33f83339000e15bd83196e4233e90658801c 
