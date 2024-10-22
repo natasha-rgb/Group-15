@@ -41,3 +41,10 @@
   2. Changed feature name: https://github.com/Madi3456/Group-15/commit/8daeb1e99724989f663ebec2c2ca9d98b4627e44
   3. Edited descriptions: https://github.com/Madi3456/Group-15/commit/59deb5ff7c9faf9054dda97a24a7dc2bcd851a22
 
+## Andrew Corbett - Project Manager
+- **Role**: Oversees the overall project timeline, ensures that milestones are met, and coordinates the team’s efforts.<br>
+- **Top 3 commits**:
+  1. data: https://github.com/Madi3456/Group-15/commit/a0ad32ab5d19ae023ef41165bde3dad87a756cc6
+  2. individual report: 
+  3. this: 
+
