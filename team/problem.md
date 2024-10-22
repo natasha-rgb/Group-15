@@ -6,4 +6,4 @@
 <p>To solve this we'd like to take the core original ideas of the site Quizlet and keep them alive before they turned into a payed walled site. With out new website we wish to offer the ability for student's to make flash cards to practice with as well as tests to strengthen their memorization. All of this free for all student's to be able to be free through free education.</p>
 <h4>Why Freelit Matters</h4>
 <p>We believe eduction and learning doesn't belong behind a pay wall and should be open for everyone regardless of financial situation. With this we hope to help all student's learn faster and more efficiently through our services. We hope this improves our users lives by giving them a faster more efficient and fun way to study but most of all free. We believe that eduction is Freedom so we wish to open this opportunity to have freedom for all. </p>
->>>>>>> 295f3ef (Problem formatting fixed)
+
