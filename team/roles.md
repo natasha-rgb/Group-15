@@ -11,9 +11,9 @@
 - **Role**:Reviews team submissions and ensures that all deliverables meet the necessary quality standards. Frank is responsible for proofreading and ensuring the accuracy of all documents before submission.
 
 - **Top 3 commits**:
-  1. https://github.com/Madi3456/Group-15/commit/406cf9c9062a4d680bf0a10f97c18e4e01fb1f90
-  2. https://github.com/Madi3456/Group-15/commit/2cd3747058782f2358c9f0d4e92464bf8cf1cb91
-  3. 
+  1. Added information to 'problem.md' https://github.com/Madi3456/Group-15/commit/406cf9c9062a4d680bf0a10f97c18e4e01fb1f90
+  2. Added and edited information in 'user.md' https://github.com/Madi3456/Group-15/commit/2cd3747058782f2358c9f0d4e92464bf8cf1cb91
+  3. Made changes to the formatting of 'roles.md' https://github.com/Madi3456/Group-15/commit/f821e2e2d97f6cd5e596ea040af779c553ec5167
 
 ## Khushali Bhatt - Task Manager
 - **Role**: Help peers with their specific tasks. Make sure that everyone knows what theyre supposed to do and help them if needed
