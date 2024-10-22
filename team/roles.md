@@ -19,16 +19,17 @@
 </p>
 
 ## Khushali Bhatt - Task Manager
-<p>**Role**:
+<p>**Role**: Help peers with their specific tasks. Make sure that everyone knows what theyre supposed to do and help them if needed
+
 
 <br>
 **Top 3 commits**
 <br>
-1.) 
+1.) Made group chat for everyone in their tasks (front end, back end)
 <br>
-2.)
+2.) Allocated tasks within front end group (assigned who does what)
 <br>
-3>)
+3>) Answered any questions peers has regarding what they specficially should be doing 
 </p>
 
 ## Sydnie Lui - Communication Leader
