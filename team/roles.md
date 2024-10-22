@@ -45,6 +45,6 @@
 - **Role**: Oversees the overall project timeline, ensures that milestones are met, and coordinates the team’s efforts.<br>
 - **Top 3 commits**:
   1. data: https://github.com/Madi3456/Group-15/commit/a0ad32ab5d19ae023ef41165bde3dad87a756cc6
-  2. individual report: 
-  3. this: 
+  2. individual report: https://github.com/Madi3456/Group-15/commit/4252347a2f0ca11c5d08880dccc75f59949f89ec
+  3. this: https://github.com/Madi3456/Group-15/commit/acddddd8a9b9de4ebb99c10789b6c81b62ac8ac5
 
