@@ -17,3 +17,6 @@
     1. The User creates flashcard sets, the flashcard sets contain flashcards, and the flashcards contain the study data
 5. Data Sources:
     1. Primarily user-input data; they input what they would like to study and that's almost excusively the data we store
+6. Collecting right and wrong answer:
+    1. To output a score and what student's need to study more
+    2. Given overall score of how student knows the subject
