@@ -43,3 +43,16 @@
 <br>
 3>) Managed group chat updates by ensuring everyone read messages sent about tasks and meetings.
 </p>
+
+## Samantha Walden - Documentation Leader
+<p>**Role**: Makes sure all descriptions and documentations of our code is precise and clear.
+
+<br>
+**Top 3 commits**
+<br>
+1.) Added correctness feature: https://github.com/Madi3456/Group-15/commit/a18906264af95a4e6fac6eaf3b5159b561794839
+<br>
+2.) Changed feature name: https://github.com/Madi3456/Group-15/commit/8daeb1e99724989f663ebec2c2ca9d98b4627e44
+<br>
+3.) Edited descriptions: https://github.com/Madi3456/Group-15/commit/59deb5ff7c9faf9054dda97a24a7dc2bcd851a22
+</p>
