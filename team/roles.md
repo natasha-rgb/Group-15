@@ -1,11 +1,11 @@
 # Team Roles and Commit Contributions
 
 ## Madeline Gelnett - Time Keeper
-- **Role**:Making sure every part of the project is done in a fast and efficient manor by making sure meeting are timely and keeping track of team/corse deadlines.<br>
-- **Top 3 commits**:
-  1. Creating Repository[https://github.com/Madi3456/Group-15/commit/3b80a97e26cfb62e9c2e839b14453a559cfeb25b]: Creating all the files for everyone to work on
-  2. Finishing up the problem section[https://github.com/Madi3456/Group-15/commit/7a8afea8ba84ae90e1999827a5f5f6f691fbbf33]
-  3. Formatting the document[]
+
+<p>**Role**:Making sure every part of the project is done in a fast and efficient manor by making sure meeting are timely and keeping track of team/corse deadlines.<br>
+**Top 3 commits**<br>
+1.) Creating Repository[https://github.com/Madi3456/Group-15/commit/3b80a97e26cfb62e9c2e839b14453a559cfeb25b]: Creating all the files for everyone to work on<br>2.)Finishing up the problem section[https://github.com/Madi3456/Group-15/commit/7a8afea8ba84ae90e1999827a5f5f6f691fbbf33]<br>3.)Formatting the document[https://github.com/Madi3456/Group-15/commit/a2f13a6d9eafb0284e50f033887bfb401a62b66a]</p>
+
 
 ## Natasha Garg - Quality Control
 - **Role**:Reviews team submissions and ensures that all deliverables meet the necessary quality standards. Responsible for proofreading and ensuring the accuracy of all documents before submission.
