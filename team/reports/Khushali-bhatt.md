@@ -1,4 +1,4 @@
-##Contribution Log for Khushali Bhatt
+Contribution Log for Khushali Bhatt
 
 **10/21/2024**
 Started working on UI diagrams : added a link to the diagram and added descirptions of the diagram
