@@ -32,14 +32,14 @@
 </p>
 
 ## Sydnie Lui - Communication Leader
-<p>**Role**:
+<p>**Role**: Facilitate communication within the team and is responsible for maintaining and managing the team’s group chat and ensuring that all members stay informed and engaged.
 
 <br>
 **Top 3 commits**
 <br>
-1.) 
+1.) Set up the team’s group chat, organized different group chats based on role (front-end/back-end), and established guidelines for communication.
 <br>
-2.)
+2.) Coordinated communication between team members during the second milestone, set a time to meet up for discussion, and relayed critical information about deadlines.
 <br>
-3>)
+3>) Managed group chat updates by ensuring everyone read messages sent about tasks and meetings.
 </p>
