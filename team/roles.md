@@ -8,7 +8,7 @@
   3. Formatting the document[]
 
 ## Natasha Garg - Quality Control
-- **Role**:Reviews team submissions and ensures that all deliverables meet the necessary quality standards. Frank is responsible for proofreading and ensuring the accuracy of all documents before submission.
+- **Role**:Reviews team submissions and ensures that all deliverables meet the necessary quality standards. Responsible for proofreading and ensuring the accuracy of all documents before submission.
 
 - **Top 3 commits**:
   1. Added information to 'problem.md' https://github.com/Madi3456/Group-15/commit/406cf9c9062a4d680bf0a10f97c18e4e01fb1f90
