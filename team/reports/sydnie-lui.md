@@ -9,6 +9,10 @@
  - **Details**: Front end group chat was created and used for communication regarding design.
 
 ## 10/21/2024
+ - **Task**: Add and edit my role.
+ - **Details**: I am the communications lead and I added it to roles.md
+ - **Link to Commit**: [Commit on Roles]()
+
  - **Task**: Insert images of UI diagrams.
  - **Details**: Images were added to ui-diagrams.md
- - **Link to Commit**: [Commit on UI Diagrams]([team/ui-diagrams.md](https://github.com/Madi3456/Group-15/blob/27560f3a85ee199b3094fab3f0b87826270b5c93/team/ui-diagrams.md))
+ - **Link to Commit**: [Commit on UI Diagrams]()
