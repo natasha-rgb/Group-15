@@ -7,6 +7,9 @@ The **Introduction Screen** is the first thing the users will see. They will be 
 ![Introduction Screen design](<img width="858" alt="Screenshot 2024-10-21 at 11 35 27 PM" src="https://github.com/user-attachments/assets/80976884-ea5a-4ae2-bcef-bff24255a5b5">
 )
 
+<img width="858" alt="Screenshot 2024-10-21 at 11 35 27 PM" src="https://github.com/user-attachments/assets/d4b8c5fd-c8a9-4050-99a1-7ce8964fdab6">
+
+
 On this screen, users will be able to do a few introductory things:
 1. **Log in/Sign up** : Users will be able to click a button that will lead them to logging in/signing up with their user credentials 
 2. **View services** : Users will be able to view the different tools and services that they will be offered 
