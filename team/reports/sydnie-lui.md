@@ -15,4 +15,4 @@
 
  - **Task**: Insert images of UI diagrams.
  - **Details**: Images were added to ui-diagrams.md
- - **Link to Commit**: [Commit on UI Diagrams]()
+ - **Link to Commit**: [Commit on UI Diagrams](https://github.com/Madi3456/Group-15/blob/main/team/ui-diagrams.md)
