@@ -4,7 +4,8 @@
 
 The **Introduction Screen** is the first thing the users will see. They will be able to log in or sign up to view their progress, and they will also be able to view various services that the app offers if they have not yet chosen to make an account of Freelit 
 
-![Introduction Screen design]([[https://imgur.com/a/XlyoODT](https://www.canva.com/design/DAGUPW-dJAA/beAdeFe8Y5G1RMlGHo3eAw/view?embed)](https://www.canva.com/design/DAGUPW-dJAA/7l41Mf11eb5b_E1wgzIoog/view?utm_content=DAGUPW-dJAA&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+![Introduction Screen design](<img width="858" alt="Screenshot 2024-10-21 at 11 35 27 PM" src="https://github.com/user-attachments/assets/80976884-ea5a-4ae2-bcef-bff24255a5b5">
+)
 
 On this screen, users will be able to do a few introductory things:
 1. **Log in/Sign up** : Users will be able to click a button that will lead them to logging in/signing up with their user credentials 
