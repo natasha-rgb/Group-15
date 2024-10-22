@@ -19,29 +19,42 @@
 </p>
 
 ## Khushali Bhatt - Task Manager
-<p>**Role**: Khushali is in charge of organizing and monitoring team tasks, overseeing the team and making sure tasks are appropriately assigned and completed within the given deadlines.
+<p>**Role**: Help peers with their specific tasks. Make sure that everyone knows what theyre supposed to do and help them if needed
 
 <br>
 **Top 3 commits**
 <br>
-1.) 
+1.) Made group chat for everyone in their tasks (front end, back end)
 <br>
-2.)
+2.) Allocated tasks within front end group (assigned who does what)
 <br>
-3>)
+3>) Answered any questions peers has regarding what they specficially should be doing 
 </p>
 
 ## Sydnie Lui - Communication Leader
-<p>**Role**: Sydnie ensures smooth communication within the team, making sure that all members are kept informed and are actively involved.
+<p>**Role**: Facilitate communication within the team and is responsible for maintaining and managing the team’s group chat and ensuring that all members stay informed and engaged.
 
 <br>
 **Top 3 commits**
 <br>
-1.) 
+1.) Set up the team’s group chat, organized different group chats based on role (front-end/back-end), and established guidelines for communication.
 <br>
-2.)
+2.) Coordinated communication between team members during the second milestone, set a time to meet up for discussion, and relayed critical information about deadlines.
 <br>
-3>)
+3>) Managed group chat updates by ensuring everyone read messages sent about tasks and meetings.
+</p>
+
+## Samantha Walden - Documentation Leader
+<p>**Role**: Makes sure all descriptions and documentations of our code is precise and clear.
+
+<br>
+**Top 3 commits**
+<br>
+1.) Added correctness feature: https://github.com/Madi3456/Group-15/commit/a18906264af95a4e6fac6eaf3b5159b561794839
+<br>
+2.) Changed feature name: https://github.com/Madi3456/Group-15/commit/8daeb1e99724989f663ebec2c2ca9d98b4627e44
+<br>
+3.) Edited descriptions: https://github.com/Madi3456/Group-15/commit/59deb5ff7c9faf9054dda97a24a7dc2bcd851a22
 </p>
 
 
